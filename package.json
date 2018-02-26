@@ -1,0 +1,12 @@
+{
+  "name": "jq-todo-list",
+  "version": "0.0.1",
+  "description": "A todo list web application.",
+  "main": "dist/index.html",
+  "repository": "git@github.com:Calerme/jq-todo-list.git",
+  "author": "Caler <calerme@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.0.0"
+  }
+}
